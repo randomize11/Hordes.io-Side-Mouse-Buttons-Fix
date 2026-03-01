@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Hordes.io Side Mouse Buttons Fix
+// @version      1.0
 // @match        https://hordes.io/play
 // @description  Forces standard side mouse buttons (m3/m4) to always apply to in-game canvas.
 // @author       Randomize
