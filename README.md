@@ -1,4 +1,4 @@
-# Hordes.io-Side-Mouse-Buttons-Fix
+# Hordes.io Side Mouse Buttons Fix
 Forces standard side mouse buttons (m3/m4) to always apply to in-game canvas.
 
 - To use the side mouse buttons in Hordes.io, use "m3" or "m4" as an in-game key binding. "m3" refers to the lower side button "back", and "m4" refers to the upper side button "forward".
