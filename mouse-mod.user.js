@@ -21,6 +21,6 @@ document.addEventListener('mouseup', e => {
 document.addEventListener('mousedown', e => {
     if ([3, 4].includes(e.button)) {
         let canvas = document.getElementsByClassName("l-canvas")[0];
-        Object.defineProperty(e, 'target', {writable: false, value: canvas});
+        Object.defineProperty(e, 'target', {value: canvas});
     }
 });
